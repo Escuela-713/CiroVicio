@@ -1,0 +1,11 @@
+.centrar
+{margin: 0 auto;}
+.contenedor {display:flex;justify-content: center;}
+
+.pantalla-verde{
+    background-color:darkgreen;
+}
+
+.pantalla-roja {
+    background-color: darkred;
+}
